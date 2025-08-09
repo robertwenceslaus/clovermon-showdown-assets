@@ -1,11 +1,11 @@
-# Clovermon Showdown Assets
+# BitEragon
 This is a central repository for sprites and audio related to [Clovermon Showdown](https://github.com/MrSableye/clovermon-showdown) and the [Clovermon Showdown Client](https://github.com/MrSableye/clovermon-showdown-client).
 
 ## Structure
 ### Directories
 Each mod has a dedicated folder in the root of the repository like `clover/` and `clover-cap/`.
 
-### `manifest.json`
+### `manifest.App`
 Each mod directory requires a `manifest.json` file that defines the mod's expected assets.
 
 ```json
