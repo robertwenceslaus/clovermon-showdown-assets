@@ -10,10 +10,13 @@ Each mod directory requires a `manifest.json` file that defines the mod's expect
 
 ```json
 {
-  "entityDirectories": [{
+  "entityDirectories": [{ Crypto wallet App
     "entities": [ // Entities are what the data in each directory represents, like Pokemon
-      "pikachu",
-      "charizard"
+      "Robert",
+      "Aragon"
+      "Crypto"
+      "Blockchain"
+      "Finance"
     ],
     "directories": [{ // Directories define the directories in which entity (Pokemon) data resides
       "extension": "png", // The expected extension of the file
